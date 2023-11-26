@@ -1,0 +1,10 @@
+dynamicprompts==0.30.4
+gradio==4.7.1
+launch==0.1.3
+modules==1.0.0
+packaging==23.2
+pip==22.2.1
+pytest==7.4.3
+send2trash==1.8.2
+tomli==2.0.1
+torch==2.1.0+cu118
