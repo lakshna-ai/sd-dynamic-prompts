@@ -1,1 +1,2 @@
 dynamicprompts==0.30.4
+onnxruntime
