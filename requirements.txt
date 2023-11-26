@@ -1,5 +1,13 @@
 onnx
 tqdm
+tomli
+pytest
+launch
+gradio
+modules
+packaging
+send2trash
+onnxruntime
 insightface
 opencv-python
 dynamicprompts
