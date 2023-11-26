@@ -1,13 +1,4 @@
-onnx
-tqdm
-tomli
-pytest
-gradio
-modules
-packaging
 send2trash
 onnxruntime
-insightface
-opencv-python
-dynamicprompts
 onnxruntime-gpu
+dynamicprompts==0.30.4
