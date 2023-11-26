@@ -1,3 +1,4 @@
+onnx
 tqdm
 tomli
 pytest
@@ -10,4 +11,3 @@ onnxruntime
 insightface
 opencv-python
 dynamicprompts
-onnxruntime-gpu
