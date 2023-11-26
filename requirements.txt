@@ -1,2 +1,5 @@
-dynamicprompts==0.30.4
+tqdm
+insightface
+opencv-python
 onnxruntime-gpu
+dynamicprompts==0.30.4
