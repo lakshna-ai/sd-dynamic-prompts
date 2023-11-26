@@ -1,4 +1,3 @@
 send2trash
 onnxruntime
-onnxruntime-gpu
 dynamicprompts==0.30.4
