@@ -2,7 +2,6 @@ onnx
 tqdm
 tomli
 pytest
-launch
 gradio
 modules
 packaging
@@ -11,3 +10,4 @@ onnxruntime
 insightface
 opencv-python
 dynamicprompts
+onnxruntime-gpu
