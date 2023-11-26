@@ -1,3 +1,4 @@
+onnx
 tqdm
 insightface
 opencv-python
