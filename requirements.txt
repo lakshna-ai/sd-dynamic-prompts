@@ -2,5 +2,5 @@ onnx
 tqdm
 insightface
 opencv-python
+dynamicprompts
 onnxruntime-gpu
-dynamicprompts==0.30.4
