@@ -1,4 +1,3 @@
-basicsr
 send2trash
 onnxruntime
 dynamicprompts
